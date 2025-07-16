@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sparsh</h1>
 <h3 align="center">A Deep-sound Computer Engineer, Curious and Want to know everything about Each thing at a moment.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrs4real&label=Profile%20views&color=0e75b6&style=flat" alt="sparshvk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshvk&label=Profile%20views&color=0e75b6&style=flat" alt="sparshvk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrs4real" alt="sparshvk" /></a> </p> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparshvk" alt="sparshvk" /></a> </p> 
 
 <p align="left"> <a href="https://twitter.com/sparshvk" target="blank"><img src="https://img.shields.io/twitter/follow/sparshvk?logo=twitter&style=for-the-badge" alt="sparshvk" /></a> </p>
 
