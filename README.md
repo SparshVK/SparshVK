@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sparshvk" target="blank"><img src="https://img.shields.io/twitter/follow/sparshvk?logo=twitter&style=for-the-badge" alt="sparshvk" /></a> </p>
 
-- 🔭 I’m currently working on **Advanced Data Analysis with MS-Exel and Power BI**
+- 🔭 I’m currently working on **Advanced Java Dev with DevOps Integration**
 
 - 🌱 I’m currently learning **Scalable backend systems and DevOps automation projects. Recently going through & overwhelmed with Ai agents automation and Ai-workflows.**
 
